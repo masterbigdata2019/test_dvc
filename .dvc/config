@@ -1,0 +1,4 @@
+[core]
+    remote = remote_data
+['remote "remote_data"']
+    url = C:/Users/isaia.tarquini_kiwit/Desktop/DVC/DVC_REMOTE
